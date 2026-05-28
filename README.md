@@ -2,7 +2,7 @@
 
 A simple webmap that displays military engagements throughout history and filterable by time. 
 
-**[Live Demo]([https://your-vercel-url.vercel.app](https://military-history-map.vercel.app/))**
+**[Live Demo](https://military-history-map.vercel.app/)**
 
 # Built With
 
