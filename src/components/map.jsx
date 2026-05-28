@@ -12,7 +12,7 @@ export default function Map({ onSelectedBattleClick, onSelectedClusterClick, yea
   const lng = 0.0;
   const lat = 50;
   const zoom = 6;
-  const API_KEY = import.meta.env.MAPTILER_KEY
+  const API_KEY = import.meta.env.VITE_MAPTILER_KEY
 
   const mapLoaded = useRef(false);
 
